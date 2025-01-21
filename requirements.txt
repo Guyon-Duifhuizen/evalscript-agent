@@ -1,0 +1,5 @@
+geopandas
+matplotlib
+#Libraries that your project use
+openai
+sentinelhub
